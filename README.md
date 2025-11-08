@@ -1,4 +1,4 @@
-# Countries Flutter App
+# Country Data Explorer - Flutter App
 
 A Flutter application samples with **Clean Architecture** and **MVVM** that allows users to browse, search, and learn about countries around the world. The app fetches data from the [REST Countries API](https://restcountries.com/) and presents it in a clean, user-friendly interface.
 
@@ -29,12 +29,12 @@ A Flutter application samples with **Clean Architecture** and **MVVM** that allo
   <img src="screenshots/home_light_web_1.png" alt="App Light 1" width="400"/>
   <img src="screenshots/home_light_web_2.png" alt="App Light 2" width="400"/>
   <img src="screenshots/home_dark_web_1.png" alt="App Dark 1" width="400"/>
-  <img src="screenshots/home_dark_web_2.png" alt="App Dark 2" width="400"/>
+  <img src="screenshots/home_dark_web_1.png" alt="App Dark 2" width="400"/>
 </p>
 
 ## Tech Stack & Architecture
 
-This project follows the principles of **Clean Architecture** to create a scalable and maintainable codebase. The code is separated into three main layers: Data, Domain, and Presentation (Features).
+This project follows the principles of **Clean Architecture** and **MVVM** to create a scalable and maintainable codebase. The code is separated into three main layers: Data, Domain, and Presentation (Features).
 
 - **Framework**: [Flutter](https://flutter.dev/)
 - **State Management & DI**: [GetX](https://pub.dev/packages/get)
@@ -79,7 +79,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/budinormansyah/countries-flutter-mvvm.git
+    git clone https://github.com/budinormansyah/countries-flutter.git
     cd countries
     ```
 
@@ -99,3 +99,5 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```sh
     flutter run
     ```
+
+### [Play Store link download](https://play.google.com/store/apps/details?id=com.dakhaki.geswat)
