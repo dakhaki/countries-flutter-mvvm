@@ -29,7 +29,7 @@ A Flutter application samples with **Clean Architecture** and **MVVM** that allo
   <img src="screenshots/home_light_web_1.png" alt="App Light 1" width="400"/>
   <img src="screenshots/home_light_web_2.png" alt="App Light 2" width="400"/>
   <img src="screenshots/home_dark_web_1.png" alt="App Dark 1" width="400"/>
-  <img src="screenshots/home_dark_web_1.png" alt="App Dark 2" width="400"/>
+  <img src="screenshots/home_dark_web_2.png" alt="App Dark 2" width="400"/>
 </p>
 
 ## Tech Stack & Architecture
@@ -79,7 +79,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/budinormansyah/countries-flutter.git
+    git clone https://github.com/budinormansyah/countries-flutter-mvvm.git
     cd countries
     ```
 
