@@ -2,6 +2,8 @@
 
 A Flutter application samples with **Clean Architecture** and **MVVM** that allows users to browse, search, and learn about countries around the world. The app fetches data from the [REST Countries API](https://restcountries.com/) and presents it in a clean, user-friendly interface.
 
+[Play Store link download](https://play.google.com/store/apps/details?id=com.dakhaki.geswat)
+
 ## Features
 
 - **List Countries**: View a comprehensive list of countries in a responsive grid layout.
@@ -99,5 +101,3 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```sh
     flutter run
     ```
-
-### [Play Store link download](https://play.google.com/store/apps/details?id=com.dakhaki.geswat)
